@@ -1,8 +1,8 @@
-## Ha0 👩🏻‍💻 🍒
+## Ha0 🍒
 
-Department of Computer Science at Handong Global University.  🖥
+Department of Computer Science at Handong Global University. 👩🏻‍💻 
 
-***So whether you eat or drink or whatever you do, do it all for the glory of God. -- Corinthians 10:31***
+***So whether you eat or drink or whatever you do, do it all for the glory of God. - Corinthians 10:31***
 
 <!--
 **chy0428/chy0428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
