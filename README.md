@@ -1,6 +1,7 @@
-## Ha0 🍒
-
-Department of Computer Science at Handong Global University. 👩🏻‍💻 
+## Ha0 👩🏻‍💻🍒
+ 
+Continuous learning is the minumum requirement for success in any field
+- Brain Tracy
 
 ***So whether you eat or drink or whatever you do, do it all for the glory of God. - Corinthians 10:31***
 
