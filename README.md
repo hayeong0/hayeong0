@@ -2,7 +2,7 @@
  
 > Continuous learning is the minumum requirement for success in any field -Brain Tracy
 
-***So whether you eat or drink or whatever you do, do it all for the glory of God. - Corinthians 10:31***
+***So whether you eat or drink or whatever you do, do it all for the glory of God. -  Corinthians 10:31***
 
 <!--
 **chy0428/chy0428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
