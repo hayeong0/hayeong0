@@ -2,7 +2,7 @@
 <img src="https://gpvc.arturio.dev/chy0428" align="right" />
 </div>  
 
-<h1 align="left">Hi 👋🏻, I'm hayeong 👩🏻‍💻🍒</h1>
+<h1 align="left">Hi 👋🏻,  I'm hayeong 👩🏻‍💻🍒</h1>
 
 
 I am an undergraduate student majoring in computer science at Handong Global University.  
@@ -16,6 +16,7 @@ I want to become an honest and competent professional who makes a positive impac
 
 ***So whether you eat or drink or whatever you do, do it all for the glory of God. -  Corinthians 10:31***
 
+<br/>
 
 - 🌱 I’m currently learning **Deep learning (Generative models)**
 - 💬 Ask me about **DL, ML, etc**
@@ -26,8 +27,6 @@ I want to become an honest and competent professional who makes a positive impac
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chy0428)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/21800758@handong.edu)  
  -->
 <br/>
-
-
 <h2 align="left">📊 Github Stats</h2>
 
 <table><tr><td valign="top" width="50%">
@@ -37,7 +36,6 @@ I want to become an honest and competent professional who makes a positive impac
 </td></tr></table> 
 
 <br/>
-
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
