@@ -7,12 +7,12 @@
 
 
 I am an undergraduate student majoring in computer science at Handong Global University.  
-I am interested in `deep learning`, `computer vision` and `new technologies`.  
+I am interested in `deep learning`, `machine learning`, `computer vision` and `new technologies`.  
 Rather than knowing roughly, I am trying to become a competent engineer who can directly implement and develop what I know.  
 I want to become an honest and competent professional who makes a positive impact through research and development.
 
 
-> Continuous learning is the minumum requirement for success in any field -Brain Tracy
+> Continuous learning is the minimum requirement for success in any field -Brain Tracy
 
 
 ***So whether you eat or drink or whatever you do, do it all for the glory of God. -  Corinthians 10:31***
