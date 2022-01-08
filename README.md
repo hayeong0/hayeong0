@@ -1,6 +1,6 @@
 <div align="right">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchy0428&count_bg=%23F58F9D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+view&edge_flat=false" align="right" //></a>
-<!-- <img src="https://gpvc.arturio.dev/chy0428" align="right" /> -->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayeong0&count_bg=%23F58F9D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+view&edge_flat=false" align="right" //></a>
+<!-- <img src="https://gpvc.arturio.dev/hayeong0" align="right" /> -->
 </div>  
 
 <h1 align="left">Hi 👋🏻,  I'm hayeong 👩🏻‍💻🍒</h1>
@@ -22,15 +22,15 @@ I wanna become an honest and competent professional who makes a positive impact 
 
 <!-- <h3 align="left">Connect with me:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chy0428)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/21800758@handong.edu)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hayeong0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/21800758@handong.edu)  
  -->
 <br/>
 <h2 align="left">📊 Github Stats</h2>
 
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=chy0428&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=hayeong0&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chy0428&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayeong0&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table> 
 
 <br/>
