@@ -6,8 +6,9 @@
 <h1 align="left">Hi 👋🏻,  I'm hayeong 👩🏻‍💻🍒</h1>
 
 
-🎓 B.S at Handong Global University
-🤍 I'm interested in `deep learning`, `machine learning`, `computer vision` and `new technologies`.  
+🎓 B.S at Handong Global University (Computer Science) <br/>
+🤍 Interest: `deep learning`, `machine learning`, `computer vision` and `new technologies`.  
+
 Rather than knowing roughly, I'm trying to become a competent engineer who can directly implement and develop what I know.  
 I wanna become an honest and competent professional who makes a positive impact through research and development.
 
