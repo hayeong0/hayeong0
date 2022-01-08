@@ -1,13 +1,13 @@
 <div align="right">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayeong0&count_bg=%23F58F9D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+view&edge_flat=false" align="right" //></a>
-<!-- <img src="https://gpvc.arturio.dev/hayeong0" align="right" /> -->
+<!-- <img src="https://gpvc.arturio.dev/chy0428" align="right" /> -->
 </div>  
 
 <h1 align="left">Hi 👋🏻,  I'm hayeong 👩🏻‍💻🍒</h1>
 
 
 🎓 B.S at Handong Global University (Computer Science) <br/>
-🤍 Interest: `deep learning`, `machine learning`, `computer vision` and `new technologies`.  
+🤍 Interests: `deep learning`, `machine learning`, `computer vision` and `new technologies`.  
 
 Rather than knowing roughly, I'm trying to become a competent engineer who can directly implement and develop what I know.  
 I wanna become an honest and competent professional who makes a positive impact through research and development.
