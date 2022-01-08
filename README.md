@@ -6,10 +6,10 @@
 <h1 align="left">Hi 👋🏻,  I'm hayeong 👩🏻‍💻🍒</h1>
 
 
-I am an undergraduate student majoring in computer science at Handong Global University.  
-I am interested in `deep learning`, `machine learning`, `computer vision` and `new technologies`.  
-Rather than knowing roughly, I am trying to become a competent engineer who can directly implement and develop what I know.  
-I want to become an honest and competent professional who makes a positive impact through research and development.
+🎓 B.S at Handong Global University
+🤍 I'm interested in `deep learning`, `machine learning`, `computer vision` and `new technologies`.  
+Rather than knowing roughly, I'm trying to become a competent engineer who can directly implement and develop what I know.  
+I wanna become an honest and competent professional who makes a positive impact through research and development.
 
 
 > Continuous learning is the minimum requirement for success in any field -Brain Tracy
@@ -18,10 +18,6 @@ I want to become an honest and competent professional who makes a positive impac
 ***So whether you eat or drink or whatever you do, do it all for the glory of God. -  Corinthians 10:31***
 
 <br/>
-
-- 🌱 I’m currently learning **Deep learning (Generative models)**
-- 💬 Ask me about **DL, ML, etc**
-- 📫 How to reach me **21800758@handong.edu**
 
 <!-- <h3 align="left">Connect with me:</h3>
 
