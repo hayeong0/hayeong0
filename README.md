@@ -6,7 +6,6 @@
 <h1 align="left">Hi 👋🏻,  I'm hayeong 👩🏻‍💻🍒</h1>
 
 
-🎓 B.S at Handong Global University (Computer Science) <br/>
 🤍 Interests: `deep learning`, `machine learning`, `computer vision` and `new technologies`.  
 
 Rather than knowing roughly, I'm trying to become a competent engineer who can directly implement and develop what I know.  
