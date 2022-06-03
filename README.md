@@ -6,7 +6,7 @@
 <h1 align="left">Hi 👋🏻,  I'm hayeong 👩🏻‍💻🍒</h1>
 
 
-🤍 Interests: `deep learning`, `speech synthesis`, `computer vision` and `new technologies`.  
+🤍 Interests:  `Computer Science`, `Deep Learning`, `Speech Synthesis` and `Computer Vision`  
 
 > Continuous learning is the minimum requirement for success in any field -Brain Tracy
 
