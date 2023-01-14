@@ -10,15 +10,12 @@
 
 > Continuous learning is the minimum requirement for success in any field -Brain Tracy
 
-***So whether you eat or drink or whatever you do, do it all for the glory of God. -  Corinthians 10:31***
-
-
 <h2 align="left">📊 Github Stats</h2>
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=hayeong0&count_private=true&show_icons=true&theme=radical" align="left">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hayeong0&count_private=true&show_icons=true&theme=radical" align="left">
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayeong0&layout=compact&theme=radical" align="left">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hayeong0&layout=compact&theme=radical" align="left">
 </td></tr></table> 
 
 ---
