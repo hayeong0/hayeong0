@@ -5,15 +5,11 @@
 
 <h1 align="left">Hi 👋🏻,  I'm hayeong 👩🏻‍💻🍒</h1>
 
-
 🤍 Interests:  `Voice Conversion`, `Speech Synthesis` and `Generative Models`  
 > Continuous learning is the minimum requirement for success in any field -Brain Tracy
 
-<br/>
-<!-- <h3 align="left">Connect with me:</h3>
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hayeong0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/21800758@handong.edu)  
- -->
 <br/>
 <h2 align="left">📊 Github Stats</h2>
 <table><tr><td valign="top" width="50%">
