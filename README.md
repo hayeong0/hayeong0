@@ -5,12 +5,14 @@
 
 <h1 align="left">Hi 👋🏻,  I'm hayeong 👩🏻‍💻🍒</h1>
 
+
 🤍 Interests:  `Voice Conversion`, `Speech Synthesis` and `Generative Models`  
+
 > Continuous learning is the minimum requirement for success in any field -Brain Tracy
 
----
+***So whether you eat or drink or whatever you do, do it all for the glory of God. -  Corinthians 10:31***
 
-<br/>
+
 <h2 align="left">📊 Github Stats</h2>
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=hayeong0&count_private=true&show_icons=true&theme=radical" align="left">
