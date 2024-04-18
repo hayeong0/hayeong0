@@ -4,7 +4,7 @@
   
 <h2 align="left">Hi 👋🏻,  I'm Ha-Yeong 👩🏻‍💻</h1>
 
-🎯 I research speech synthesis and generative models, aiming to pioneer speech AI technology and commercialize it for beneficial services. </br> 
+🎯 I research speech synthesis and generative models, aiming to pioneer speech AI technology. </br> 
  
 ### 🤍 Research Interests
 - Speech Synthesis (TTS, VC, SVS)
