@@ -4,11 +4,9 @@
   
 <h2 align="left">Hi 👋🏻,  I'm Ha-Yeong 👩🏻‍💻</h1>
 
-🎯 I research speech synthesis and generative models, aiming to pioneer speech AI technology. </br> 
- 
-### 🤍 Research Interests
-- Speech Synthesis (TTS, VC, SVS)
-- Generative Models 
+🎯  I am an AI research engineer with a background in computer science and artificial intelligence, currently focusing on speech synthesis. <br> <br>
+🤗  I have a keen interest in `speech synthesis`, `generative models`, and `multi-modal systems`. <br> <br>
+🧭  My ultimate research goal is to develop technology that benefits human life, and to break down barriers for the disadvantaged through AI, creating a more convenient world.
+Recently, I have been particularly interested in controllable speech generation. However, my research interests are not limited to this area.
 
-🪄 Love what you do
- 
+  
