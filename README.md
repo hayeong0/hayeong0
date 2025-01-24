@@ -6,7 +6,4 @@
 
 🎯  I am an AI research engineer with a background in computer science and artificial intelligence, currently focusing on speech synthesis. <br> <br>
 🤗  I have a keen interest in `speech synthesis`, `generative models`, and `multi-modal systems`. <br> <br>
-🧭  My ultimate research goal is to develop technology that benefits human life, and to break down barriers for the disadvantaged through AI, creating a more convenient world.
-Recently, I have been particularly interested in controllable speech generation. However, my research interests are not limited to this area.
-
-  
+🧭 My ultimate research goal is to develop technology that benefits human life, and to break down barriers for the disadvantaged through AI, creating a more convenient world. Recently, I have been interested in and researching zero-shot TTS, controllable speech generation, and fast speech decoding for multimodal agents. However, my research interests are not limited to this area.
